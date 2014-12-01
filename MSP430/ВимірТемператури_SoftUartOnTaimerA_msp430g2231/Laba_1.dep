@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1477924162</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+      <file>$PROJ_DIR$\main.cpp</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\Laba_1.d43</file>
+      <file>$PROJ_DIR$\Debug\Exe\Laba_1.ulp</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+      <file>$TOOLKIT_DIR$\inc\msp430g2231.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Laba_1.pbd</file>
+      <file>$TOOLKIT_DIR$\config\lnk430G2231.xcl</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\main.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 0 3</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 8 0 3</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\Laba_1.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 10 1 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 5</file>
+        </tool>
+        <tool>
+          <name>ULP430</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$PROJ_DIR$\main.cpp</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+      <file>$TOOLKIT_DIR$\inc\msp430g2231.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\cerrno</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\xlocnum</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\ostream</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\iostream</file>
+      <file>$PROJ_DIR$\Release\Exe\Laba_1.txt</file>
+      <file>$PROJ_DIR$\Release\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\main.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xlocale_lconv.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\cstdio</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\locale.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\sstream</file>
+      <file>$TOOLKIT_DIR$\config\multiplier.xcl</file>
+      <file>$TOOLKIT_DIR$\config\lnk430F149.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\streambuf</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\exception</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\cstddef</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\xstddef</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ctype.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xlocale.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\clocale</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xlocaleuse.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\wchar.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xlocale_c.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\xstring</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\iosfwd</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\cstring</file>
+      <file>$PROJ_DIR$\Release\Exe\Laba_1.ulp</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\xdebug</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\cstdlib</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stddef.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\errno.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xmtx.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xtls.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\ios</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\istream</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\xiosbase</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\cctype</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\stdexcept</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\string</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\climits</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\main.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 0 2</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 4 0 2 8 52 7 51 6 5 39 40 41 42 43 44 22 47 57 25 26 14 12 13 36 50 37 45 38 18 53 54 23 24 49 48 27 29 28 55 19 21 20 46 30 31 33 32 35 56 15</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Release\Exe\Laba_1.txt</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 17 16 11 3</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 9</file>
+        </tool>
+        <tool>
+          <name>ULP430</name>
+          <file> 34</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+</project>
+
+

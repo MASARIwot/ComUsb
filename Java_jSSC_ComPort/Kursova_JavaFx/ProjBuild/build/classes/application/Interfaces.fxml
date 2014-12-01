@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.control.Button?>
+
+
+<AnchorPane fx:id="mainPanel" prefHeight="366.0" prefWidth="577.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Controller" >
+   <children>
+      <Button fx:id="buttonStart" layoutX="19.0" layoutY="66.0" mnemonicParsing="false" onAction="#clickButtonStart" text="Start/Stop" />
+      <Button fx:id="buttonUpdate" layoutX="35.0" layoutY="96.0" mnemonicParsing="false" onAction="#clickButtonUpdate" text="Update" />
+      <Button fx:id="buttonSave" layoutX="507.0" layoutY="330.0" mnemonicParsing="false" onAction="#clickButtonSave" text="Stop port" />
+      <Label layoutX="20.0" layoutY="14.0" prefHeight="16.0" prefWidth="76.0" text="path" />
+      <LineChart fx:id="dataChar" layoutX="112.0" layoutY="-5.0" prefHeight="335.0" prefWidth="447.0">
+        <xAxis>
+          <NumberAxis  fx:id="xAxis" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis  fx:id="yAxis" />
+        </yAxis>
+      </LineChart>
+      <TextField fx:id="textFildcomList" layoutX="19.0" layoutY="31.0" prefHeight="25.0" prefWidth="94.0" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,387 @@
+LabVIEW Measurement	
+Writer_Version	2
+Reader_Version	2
+Separator	Tab
+Decimal_Separator	.
+Multi_Headings	Yes
+X_Columns	No
+Time_Pref	Relative
+Operator	Саня
+Date	2014/06/02
+Time	20:13:35.6614751815795898437
+***End_of_Header***	
+	
+Channels	1	
+Samples	1	
+Date	2014/06/02	
+Time	20:13:35.6614751815795898437	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-1556.380510
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	0.000000
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1018.050542
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1034.181818
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1034.181818
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1014.054054
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1038.251366
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1018.050542
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1018.050542
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1010.071942
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1018.050542
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1018.050542
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1018.050542
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1018.050542
+
+Channels	1	
+Samples	1	
+Date	1904/01/01	
+Time	02:00:00	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1022.061483
+
